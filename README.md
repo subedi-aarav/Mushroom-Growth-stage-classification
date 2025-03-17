@@ -1,1 +1,1 @@
-# Mushroom-Growth-Stage-Classification---A-Case-Study
+# Mushroom Growth Stage Classification - A Case Study
